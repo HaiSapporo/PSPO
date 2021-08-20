@@ -30,7 +30,7 @@ Tổng hợp các điểm cần clear khi thi PSPO
 * Người của scrum team tham dự. 
 * Sprint Planning là 8 tiếng. 
 * Yes, we discuss WHY, WHAT, and HOW, but we do not discuss WHO.
-# Product Backlog Refinement các hoạt động
+## Product Backlog Refinement các hoạt động
 * Breakdown Product into smaller backlog 
 * Update detail hơn về Product backlog 
 * Sắp xếp lại Product Backlog để tối ưu giá trị 
